@@ -1,2 +1,7 @@
-# python-practice
-My beginner Python projects
+# Python-practice
+
+This repository contains my beginner Python projects
+
+##Projects
+-hello.py-simple greeting program
+
