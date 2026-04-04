@@ -1,0 +1,22 @@
+print('''STUDENT MARK GRADER
+''')
+num1=float(input("Enter Student Mark: "))
+num2=float(input("Enter Paper Total: "))
+
+percentage= num1/num2 * 100
+if percentage >=90:
+    print(f"{percentage}% GRADE A*")
+elif percentage >=80:
+    print(f"{percentage}% GRADE A")
+elif percentage >=70:
+    print(f"{percentage}% GRADE B")
+elif percentage >=60:
+    print(f"{percentage}% GRADE C")
+elif percentage >=50:
+    print(f"{percentage}% GRADE D")
+elif percentage >=40:
+    print(f"{percentage}% GRADE E")
+elif percentage >=20:
+    print(f"{percentage}% GRADE F")
+else:
+    print(f"{percentage}% GRADE U")
