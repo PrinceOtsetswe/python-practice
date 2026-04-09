@@ -12,3 +12,4 @@ This repository contains my beginner Python projects
 
 4.Calculator.py- A simple Python calculator that can perform addition, subtraction, multiplication and division.
 
+5.student mark grader- A simple python program that calculates a student's grade based on their marks. It takes input marks, computes the average and percentage then assigns a grade plus the percentage
