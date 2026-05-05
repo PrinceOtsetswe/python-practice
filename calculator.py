@@ -7,8 +7,8 @@ Operations:
 - for subtraction
 ''')
 
-num1 =float(input('enter first number: '))
-num2 =float(input('enter second number: '))
+num1 =float(input('input first digit: '))
+num2 =float(input('input second digit: '))
 
 operation = input("enter operation: ")
 
